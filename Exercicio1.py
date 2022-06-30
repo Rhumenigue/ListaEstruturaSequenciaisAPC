@@ -1,0 +1,6 @@
+entrada = input()
+print (entrada)
+print (f'{entrada}{entrada}')
+print (f'{entrada} {entrada}')
+print (f'2{entrada}')
+print (f'[{entrada}]')
