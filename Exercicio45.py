@@ -1,0 +1,1 @@
+resultado= int(x+y)
